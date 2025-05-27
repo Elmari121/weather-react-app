@@ -66,14 +66,8 @@ export default function App() {
           >
             GitHub
           </a>{" "}
-          and hosted on{" "}
-          <a
-            href="#"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Netlify
-          </a>.
+          and hosted on netlify{" "}
+         
         </small>
       </footer>
     </div>
