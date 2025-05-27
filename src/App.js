@@ -52,6 +52,32 @@ export default function App() {
           </p>
         </div>
       )}
+
+      {}
+      <footer className="text-center mt-5">
+        <small>
+          This project was coded by{" "}
+          <a href="https://github.com/Elmari121" target="_blank" rel="noreferrer">
+            Elmari de Villiers
+          </a>
+          , open-sourced on{" "}
+          <a
+            href="https://github.com/Elmari121/weather-react-app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            GitHub
+          </a>{" "}
+          and hosted on{" "}
+          <a
+            href="#"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Netlify
+          </a>.
+        </small>
+      </footer>
     </div>
   );
 }
