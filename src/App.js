@@ -52,8 +52,6 @@ export default function App() {
           </p>
         </div>
       )}
-
-      {}
       <footer className="text-center mt-5">
         <small>
           This project was coded by{" "}
