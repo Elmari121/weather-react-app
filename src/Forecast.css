@@ -1,0 +1,19 @@
+.forecast-container {
+  margin-top: 30px;
+}
+
+.forecast-day {
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.forecast-icon {
+  width: 60px;
+  height: 60px;
+}
+
+.forecast-temp {
+  font-size: 14px;
+  color: #666;
+}
